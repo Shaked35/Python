@@ -1,0 +1,50 @@
+[
+{
+  "ad_id": 2000008,
+  "ad_group_id": 1000001,
+  "url": "http://adwords.google.com/clientUploads/1707df73-19a4-42e7-981e-b151cbc0b3d0",
+  "impressions": 70,
+  "clicks": 7,
+  "conversions": 5
+},
+{
+"ad_id": 2000008,
+"ad_group_id": 1000001,
+"url": "http://adwords.google.com/clientUploads/1707df73-19a4-42e7-981e-b151cbc0b3d0",
+"impressions": 15,
+"clicks": 10,
+"conversions": 9
+},
+  {
+"ad_id": 2000004,
+"ad_group_id": 1000001,
+"url": "http://adwords.google.com/clientUploads/1707df73-19a4-42e7-981e-b151cbc0b3d0",
+"impressions": 50,
+"clicks": 4,
+"conversions": 3
+},
+  {
+"ad_id": 2000005,
+"ad_group_id": 1000001,
+"url": "http://adwords.google.com/clientUploads/1707df73-19a4-42e7-981e-b151cbc0b3d0",
+"impressions": 5,
+"clicks": 3,
+"conversions": 3
+},
+  {
+"ad_id": 2000007,
+"ad_group_id": 1000001,
+"url": "http://adwords.google.com/clientUploads/1707df73-19a4-42e7-981e-b151cbc0b3d0",
+"impressions": 201,
+"clicks": 200,
+"conversions": 1
+},
+    {
+"ad_id": 2000010,
+"ad_group_id": 1000001,
+"url": "http://adwords.google.com/clientUploads/1707df73-19a4-42e7-981e-b151cbc0b3d0",
+"impressions": 100,
+"clicks": 2,
+"conversions": 2
+}
+]
